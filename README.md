@@ -1,6 +1,8 @@
-# <h1 align="center">RoboCar 1.0
-# <h3> 1 COMPONETES DO ROBOCAR1.0
-# <h4 align="center"> Tabela 1 - Lista de componentes do carro explorador. 
+ <h1 align="center">RoboCar 1.0
+ <h3> 1 COMPONETES DO ROBOCAR1.0
+ <h4 align="center"> Tabela 1 - Lista de componentes do carro explorador. 
+
+#
 | Quantidade | Descrição |
 |----------|----------|
 | 2 | Bateria de Li-Ion 18650 | 
@@ -52,3 +54,14 @@
  <h4>3.1.1 Pontes H
  <p align="center"><h4> Posicione e fixe usando cola quente as pontes H como na imagem demonstrada</p>
 
+ <h5 align="center">Figura 1 - Pontes H Fixadas </h5>
+ 
+ <h5 align="center">Fonte: do autor, 2025</h5>
+
+# <h4>3.1.2 Motores
+  
+ <p align="rigth">Solde os fios estanhados nos motores como no exemplo abaixo. Utilize
+o fluxo de solda na região que será soldada para melhor aderência da solda.
+<h5 align="center">Figura 2- Motores soldados
+ 
+# <h4>Anotação
