@@ -4,7 +4,7 @@
  <br>
 
 | Quantidade | Descrição |
-|----------|----------|
+|:----------:|:----------:|
 | 2 | Bateria de Li-Ion 18650 | 
 | 4 | Cabo jumper macho-macho  |
 | 5 | Cabo jumper macho-fêmea |
@@ -350,5 +350,4 @@ o fluxo de solda na região que será soldada para melhor aderência da solda.</
 | Circuito L298N   |  https://lc.cx/9St9Mw  | 
 | Motor DC 5V  | https://cdn.sparkfun.com/datasheets/Robotics/DG01D.jpg  | 
 | Guia da ponte H   | https://lc.cx/9nQJmO   |
-| Step-down | XL4016 pdf, XL4016 Description, XL4016 Datasheet, 
-XL4016 view ::: ALLDATASHEET ::: |
+| Step-down | https://www.alldatasheet.com/datasheet-pdf/view/1134369/XLSEMI/XL4016.html#:~:text=Click%20to%20view%20in%20HTML%20datasheet.%20List%20of,DC%20Converter.%20File%20Size%3A%20250.52%20Kbytes.%20Manufacturer%3A%20XLSEMI. |
