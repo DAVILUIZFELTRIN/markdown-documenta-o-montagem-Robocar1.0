@@ -2,6 +2,7 @@
  <h3> 1 COMPONETES DO ROBOCAR1.0</h3>
  <h4 align="center"> Tabela 1 - Lista de componentes do carro explorador. </h4>
  <br>
+ 
 
 | Quantidade | Descrição |
 |:----------:|:----------:|
