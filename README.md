@@ -308,3 +308,21 @@ o fluxo de solda na região que será soldada para melhor aderência da solda.</
  <h5 align="center">Figura 3- Robocar1.0 completo.</h5>
 
 <h5 align="center">Fonte: do autor, 2025</h5>
+
+#5 CÓDIGO DE EXEMPLO
+<p>https://github.com/jhonicauan/Carro_remoto.git </p>
+
+<h3 align="center"> LINKS DE COMPRA</h3>
+<p>Caso seja necessário, a seguir uma lista de links para comprar os componentes do carrinho seguidor de linha montado no projeto: </p>
+
+| Item | Link |
+|----------|----------|
+| Alicate universal 5 polegadas  | https://lista.mercadolivre.com.br/alicate-universal-5-polegadas |
+| 1 | Carregador de baterias de Li-Ion 18650  |
+| 1 | Fita isolante (preta ou branca) 20mm x 10m (LxC) | 
+| 1 | Fluxo de solda | 
+| 1 | Multímetro digital  |
+| 1 | Pinça antiestática curva |
+| 1 | Sugador de solda  |
+| 1 | Suporte para sensores infravermelhos 6 x 2,5cm (CxL) |
+| 1 | Tesoura |
