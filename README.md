@@ -186,3 +186,8 @@ o fluxo de solda na região que será soldada para melhor aderência da solda.</
 
 <br>
 <h4>3.3.6 Servo motor </h4>
+<p>Para finalizar a preparação da parte superior do chassi antes de unimos as duas fixaremos na parte dianteira do chassi superior um servo motor para posteriormente fixamos a câmera.</p>
+
+ <h5 align="center">Figura 17- Servo posicionado.</h5>
+
+<h5 align="center">Fonte: do autor, 2025</h5>
