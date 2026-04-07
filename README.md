@@ -316,10 +316,10 @@ o fluxo de solda na região que será soldada para melhor aderência da solda.</
 <p>Caso seja necessário, a seguir uma lista de links para comprar os componentes do carrinho seguidor de linha montado no projeto: </p>
 
 | Item | Link |
-|----------|----------|
+|:----------:|:----------:|
 | Alicate universal 5 polegadas  | https://lista.mercadolivre.com.br/alicate-universal-5-polegadas |
-| 1 | Carregador de baterias de Li-Ion 18650  |
-| 1 | Fita isolante (preta ou branca) 20mm x 10m (LxC) | 
+| Bateria Li-Ion (18650)  | https://www.moduloeletronica.com.br/produto/bateria-li-ion-cr18650-37v-2200mah-green/5519308 |
+| Câmera Raspberry  | Câmera  | 
 | 1 | Fluxo de solda | 
 | 1 | Multímetro digital  |
 | 1 | Pinça antiestática curva |
