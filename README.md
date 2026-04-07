@@ -23,8 +23,9 @@
  <h5 align="center"> Fonte: do autor, 2025
 
 # <h3>2 FERRAMENTAS DE MONTAGEM</3>
-# <h5 align="center"> Tabela 2 - Lista de ferramentas de montagem.</5>
-
+<h5 align="center"> Tabela 2 - Lista de ferramentas de montagem.</5>
+<br>
+ 
 | Quantidade | Descrição |
 |----------|----------|
 | 1 | Chave de fenda com ponta 3mm | 
@@ -36,7 +37,8 @@
  <h5 align="center"> Fonte: Lucas Pizoni, 2025
 
 # <h4>2.1 Itens aconselháveis ao projeto </4>
-# <h5 align="center"> Tabela 3 - Lista de itens aconselháveis ao projeto</5>
+<h5 align="center"> Tabela 3 - Lista de itens aconselháveis ao projeto</5>
+<br>
 
 | Quantidade | Descrição |
 |----------|----------|
@@ -191,3 +193,111 @@ o fluxo de solda na região que será soldada para melhor aderência da solda.</
  <h5 align="center">Figura 17- Servo posicionado.</h5>
 
 <h5 align="center">Fonte: do autor, 2025</h5>
+
+<br>
+<h4>3.4 Unindo as partes</h4>
+<h4>3.4.1 Preparando os espaçadores</h4>
+<p>Utilizando uma chave de fenda fixe os espaçadores para que possamos unir a parte superior e inferior como mostrado abaixo tenha certeza de que estejam o mais firme possível.</p>
+
+ <h5 align="center">Figura 18- Espaçadores posicionados.</h5>
+
+<h5 align="center">Fonte: do autor, 2025</h5>
+
+<br>
+<h4>3.4.2 Conectando as entradas positivas no V12 </h4>
+<p>Conecte as saídas de energia do botão nas entradas V12 das pontes H e conecte um cabo macho-macho extra na entrada mais próxima do Step-down IN + o conectando no mesmo.</p>
+
+ <h5 align="center">Figura 19.1- Conectando a ponte H mais proxima do step.</h5>
+
+<h5 align="center">Fonte: do autor, 2025</h5>
+<br>
+
+<h5 align="center">Figura 19.2- Conectando a ponte H mais distante do step.</h5>
+
+<h5 align="center">Fonte: do autor, 2025</h5>
+<br>
+<h5 align="center">Figura 19.1- Conectando ao step.</h5>
+
+<h5 align="center">Fonte: do autor, 2025</h5>
+<br>
+
+<h4>3.4.3 Conectando as entradas negativas</h4>
+<p>Conecte a saída negativa da bateria na protoboard então conecte 3 fios macho-macho junto dela e use 2 para alimentar as pontes H e 1 para alimentar o IN -.</p>
+
+<h5 align="center">Figura 20.1- Conectado a protoboard.</h5>
+
+<h5 align="center">Fonte: do autor, 2025</h5>
+<br>
+<h5 align="center">Figura 20.2- Conectado a ponte H.</h5>
+
+<h5 align="center">Fonte: do autor, 2025</h5>
+<br>
+
+<h5 align="center">Figura 20.3- Conectado ao step.</h5>
+
+<h5 align="center">Fonte: do autor, 2025</h5>
+<br>
+
+<h4>3.4.4 Fixando as duas partes</h4>
+<p>Passe os cabos do ENA ao ENB para a parte superior do chassi e então parafuse as duas partes do chassi usando uma chave de fenda como mostrado abaixo.</p>
+
+<h5 align="center">Figura 21- Cabos na parte superior e chassi parafusado.</h5>
+
+<h5 align="center">Fonte: do autor, 2025</h5>
+
+<h4>3.4.5 fixando a câmera</h4>
+<p>Cole a câmera de cabeça para baixo em uma hélice de servo motor e então posicione a mesma em cima dele.</p>
+
+<h5 align="center">Figura 22- Câmera fixada.</h5>
+
+<h5 align="center">Fonte: do autor, 2025</h5>
+<br>
+
+<h4>3.4.5 Cabeamento</h4>
+<h5 align="center"> Tabela 4 - Ponte H dianteira.</5>
+<br>
+  
+| Ponte H | Raspberry |
+|:----------:|:----------:|
+| ENA | 21 | 
+| IN1 | 20 |
+| IN2 | 16 | 
+| IN3 | 7 | 
+| IN4 | 8 |
+| ENB | 25 | 
+ <h5 align="center"> Fonte: do autor, 2025
+ <br>
+
+ <h5 align="center"> Tabela 5 - Ponte H traseira.</5>
+<br>
+  
+| Ponte H | Raspberry |
+|:----------:|:----------:|
+| ENA | 11 | 
+| IN1 | 10 |
+| IN2 | 9 | 
+| IN3 | 27 | 
+| IN4 | 2 |
+| ENB | 17 | 
+ <h5 align="center"> Fonte: do autor, 2025
+
+ <br>
+
+ <h5 align="center"> Tabela 6 - Servo motor.</5>
+<br>
+  
+| Servo | Raspberry |
+|:----------:|:----------:|
+| 5V | 5V | 
+| GND | GND |
+| Controle | 19 |  
+ <h5 align="center"> Fonte: do autor, 2025
+
+  <h5 align="center"> Tabela 7 - Step-down.</5>
+<br>
+  
+| Servo | Raspberry |
+|:----------:|:----------:|
+| OUT+ | 5V | 
+| OUT- | GND |
+ <h5 align="center"> Fonte: do autor, 2025
