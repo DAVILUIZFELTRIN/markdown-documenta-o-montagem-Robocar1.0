@@ -318,11 +318,37 @@ o fluxo de solda na região que será soldada para melhor aderência da solda.</
 | Item | Link |
 |:----------:|:----------:|
 | Alicate universal 5 polegadas  | https://lista.mercadolivre.com.br/alicate-universal-5-polegadas |
-| Bateria Li-Ion (18650)  | https://www.moduloeletronica.com.br/produto/bateria-li-ion-cr18650-37v-2200mah-green/5519308 |
-| Câmera Raspberry  | Câmera  | 
-| 1 | Fluxo de solda | 
-| 1 | Multímetro digital  |
-| 1 | Pinça antiestática curva |
-| 1 | Sugador de solda  |
-| 1 | Suporte para sensores infravermelhos 6 x 2,5cm (CxL) |
-| 1 | Tesoura |
+| Bateria Li-Ion (18650)  |  https://lista.mercadolivre.com.br/camera-para-raspberry-pi | 
+| Carregador de baterias Li-Ion | https://encurtador.com.br/lHYi6  | 
+| Cartão microSd 16gb  | https://a.co/d/0hEC0ubE  |
+| Chave de fenda | https://a.co/d/0eJMnoxD |
+| Estação de solda Yihua 852 | https://a.co/d/05w5X6Ia |
+| Esponja vegetal | https://a.co/d/04zg1V2a |
+| Fluxo de solda | https://a.co/d/04QVuuOP
+| Fio estanhado 20cm | https://pt.aliexpress.com/item/1005005685884056.html |
+| Jumper macho-fêmea de 10cm | https://goo.su/WFz30sx |
+| Jumper fêmea-fêmea de 20cm | https://a.co/d/07Z3qj5Z |
+| Jumper macho-fêmea de 20cm | https://a.co/d/0iQ787Xk |
+| Jumper macho-macho de 10cm | https://a.co/d/0ht2LA6Z |
+| Jumper macho-macho de 20cm | https://www.amazon.com.br/dp/B0BY5KNQJW?ref_=cm_sw_r_cp_ud_dp_7WYFCK1AHP6JAGJVBDHQ |
+| Kit de montagem | https://www.robocore.net/kit-plataforma-robotica/kit-chassi-4wd-com-motores-e-rodas |
+| Multímetro digital Hikari HM2082 | https://goo.su/xNbRKE |
+| Pistola de cola quente Vonder| https://lc.cx/uMrdaY |
+| Raspberry pi 4 8gb Raspberry | https://www.robocore.net/placa-raspberry-pi/raspberry-pi-4-8gb |
+| Tubo de cola quente | https://lc.cx/_Nwzwm |
+| Step-down  | https://a.co/d/03LkVlCZ |
+| Solda de estanho Cobix 60/40 | https://lc.cx/uRLuau |
+
+<br>
+
+# <h3 align="center">DATASHEETS DE COMPONETES</h3>
+<p>Os datasheets são documentos com informações técnicas de componentes, módulos, placas e etc. São usados como material de consulta para entender sua natureza.</p>
+
+| Item | Link |
+|:----------:|:----------:|
+| Raspberry pi 4  | https://pip-assets.raspberrypi.com/categories/545-raspberry-pi-4-model-b/documents/RP-008344-DS-5-raspberry-pi-4-product-brief.pdf?disposition=inline#:~:text=Raspberry%20Pi%204%20Model%20B%20features%20a%20high-performance,PoE%20capability%20%28via%20a%20separate%20PoE%20HAT%20add-on%29. |
+| Circuito L298N   |  https://lc.cx/9St9Mw  | 
+| Motor DC 5V  | https://cdn.sparkfun.com/datasheets/Robotics/DG01D.jpg  | 
+| Guia da ponte H   | https://lc.cx/9nQJmO   |
+| Step-down | XL4016 pdf, XL4016 Description, XL4016 Datasheet, 
+XL4016 view ::: ALLDATASHEET ::: |
