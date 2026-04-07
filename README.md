@@ -114,4 +114,8 @@ o fluxo de solda na região que será soldada para melhor aderência da solda.
 <br>
 
 <h4>3.2.2 Inserindo a câmera</h4>
- 
+ <p>Com a câmera em mãos insira a fita na parte da câmera e da placa Raspberry para ligar as duas corretamente a mesma deve ficar como mostrado abaixo.</p>
+
+ <h5 align="center">Figura 7- MicroSd inserido no Raspberry..
+
+<h5 align="center">Fonte: do autor, 2025</h5>
