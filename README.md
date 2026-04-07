@@ -1,6 +1,6 @@
- <h1 align="center">RoboCar 1.0
- <h3> 1 COMPONETES DO ROBOCAR1.0
- <h4 align="center"> Tabela 1 - Lista de componentes do carro explorador. 
+ <h1 align="center">RoboCar 1.0</h1>
+ <h3> 1 COMPONETES DO ROBOCAR1.0</h3>
+ <h4 align="center"> Tabela 1 - Lista de componentes do carro explorador. </h4>
  <br>
 
 | Quantidade | Descrição |
@@ -22,8 +22,9 @@
 | 1 | Suporte para 2 Baterias de Li-Ion 18650 |
  <h5 align="center"> Fonte: do autor, 2025
 
-# <h3>2 FERRAMENTAS DE MONTAGEM
-# <h5 align="center"> Tabela 2 - Lista de ferramentas de montagem.
+# <h3>2 FERRAMENTAS DE MONTAGEM</3>
+# <h5 align="center"> Tabela 2 - Lista de ferramentas de montagem.</5>
+
 | Quantidade | Descrição |
 |----------|----------|
 | 1 | Chave de fenda com ponta 3mm | 
@@ -34,8 +35,9 @@
 | 1 | Tubo de cola quente 11mm x 30cm (DxC, tamanho varia por pistola) | 
  <h5 align="center"> Fonte: Lucas Pizoni, 2025
 
-# <h4>2.1 Itens aconselháveis ao projeto 
-# <h5 align="center"> Tabela 3 - Lista de itens aconselháveis ao projeto 
+# <h4>2.1 Itens aconselháveis ao projeto </4>
+# <h5 align="center"> Tabela 3 - Lista de itens aconselháveis ao projeto</5>
+
 | Quantidade | Descrição |
 |----------|----------|
 | 1 | Alicate universal 5 polegadas  | 
@@ -49,65 +51,65 @@
 | 1 | Tesoura |
  <h5 align="center"> Fonte: Lucas Pizoni, 2025
 
-# <h3>3 MONTAGEM
- <h4>3.1 Parte inferior do chassi
- <h4>3.1.1 Pontes H
+# <h3>3 MONTAGEM</3>
+ <h4>3.1 Parte inferior do chassi</h4>
+ <h4>3.1.1 Pontes H</h4>
  <p align="center"><h4> Posicione e fixe usando cola quente as pontes H como na imagem demonstrada</p>
 
  <h5 align="center">Figura 1 - Pontes H Fixadas </h5>
  
  <h5 align="center">Fonte: do autor, 2025</h5>
 
- # <h4>3.1.2 Motores
+ # <h4>3.1.2 Motores</4>
   
  <p align="center">Solde os fios estanhados nos motores como no exemplo abaixo. Utilize
-o fluxo de solda na região que será soldada para melhor aderência da solda.
+o fluxo de solda na região que será soldada para melhor aderência da solda.</p>
   
-<h5 align="center">Figura 2- Motores soldados.
+<h5 align="center">Figura 2- Motores soldados.</h5>
  
- <h5 align="center"> Fonte: Lucas Pizoni, 2025.
+ <h5 align="center"> Fonte: Lucas Pizoni, 2025.</h5>
   
-# <h4>Anotação
+# <h4>Anotação</4>
 
 <h4>Deixe a esponja úmida para limpar o ferro de solda do acúmulo de estanho.</h4>
 
 # 
-<p>Após posicionado os suportes entre o motor, ajuste os parafusos M3 de 30mm nas entradas e enrosque-os com as porcas M3. Certifique-se que o motor não esteja frouxo - pode utilizar o alicate para segurar as porcas enquanto parafusa. Repita o processo nos motores seguintes para ficar como na figura abaixo.
+<p>Após posicionado os suportes entre o motor, ajuste os parafusos M3 de 30mm nas entradas e enrosque-os com as porcas M3. Certifique-se que o motor não esteja frouxo - pode utilizar o alicate para segurar as porcas enquanto parafusa. Repita o processo nos motores seguintes para ficar como na figura abaixo.</p>
 
-<h5 align="center">Figura 1- Motores parafusados.
+<h5 align="center">Figura 1- Motores parafusados.</h5>
 
 <h5 align="center">Fonte: do autor, 2025.</h5>
 
 <br>
  
-<p>Em seguida encaixe os fios dos motores em suas respectivas pontes H como mostrado na figura abaixo caso sinta-se à vontade prenda os fios com fita isolante para ficar de forma mais consistente.
+<p>Em seguida encaixe os fios dos motores em suas respectivas pontes H como mostrado na figura abaixo caso sinta-se à vontade prenda os fios com fita isolante para ficar de forma mais consistente.</p>
 
-<h5 align="center">Figura 2- Fios dos motores encaixados.
-
-<h5 align="center">Fonte: do autor, 2025
-
-# <h4>3.1.3 Protoboard
-
-<p>Utilizando cola quente, posicione a protoboard (apenas a parte do positivo e negativo) exatamente ao centro do chassi entre os motores.
-
-<h5 align="center">Figura 5- Protoboard fixada.
-
-<h5 align="center">Fonte: do autor, 2025
-
-# <h4>3.1.4 Cabos
-
-<p>Após posiciona a ponte H para deixamos nossa parte inferior pronta retire os jumpers do ENA e ENB de cada uma das pontes H e então encaixe nos pinos de ENA até ENB, cabos macho-fêmea como na imagem abaixo.
-
-<h5 align="center">Figura 6- Cabos macho-fêmea posicionados.
+<h5 align="center">Figura 2- Fios dos motores encaixados.</h5>
 
 <h5 align="center">Fonte: do autor, 2025</h5>
 
-# <h4>3.2 Preparando o Raspberry pi 4
+# <h4>3.1.3 Protoboard</h4>
+
+<p>Utilizando cola quente, posicione a protoboard (apenas a parte do positivo e negativo) exatamente ao centro do chassi entre os motores.</p>
+
+<h5 align="center">Figura 5- Protoboard fixada.</h5>
+
+<h5 align="center">Fonte: do autor, 2025</h5>
+
+# <h4>3.1.4 Cabos</h4>
+
+<p>Após posiciona a ponte H para deixamos nossa parte inferior pronta retire os jumpers do ENA e ENB de cada uma das pontes H e então encaixe nos pinos de ENA até ENB, cabos macho-fêmea como na imagem abaixo.</p>
+
+<h5 align="center">Figura 6- Cabos macho-fêmea posicionados.</h5>
+
+<h5 align="center">Fonte: do autor, 2025</h5>
+
+# <h4>3.2 Preparando o Raspberry pi 4</h4>
 
 <h4>3.2.1 Sistema</h4>
-<p>Para usamos o nosso Raspberry precisamos de um sistema operacional instale o Raspberry desktop OS em um cartão microSd de mais ou menos 16gb e o encaixe na entrada microSd do Raspberry como mostrado abaixo.
+<p>Para usamos o nosso Raspberry precisamos de um sistema operacional instale o Raspberry desktop OS em um cartão microSd de mais ou menos 16gb e o encaixe na entrada microSd do Raspberry como mostrado abaixo.</p>
 
-<h5 align="center">Figura 7- MicroSd inserido no Raspberry..
+<h5 align="center">Figura 7- MicroSd inserido no Raspberry.</h5>
 
 <h5 align="center">Fonte: do autor, 2025</h5>
 
@@ -116,6 +118,71 @@ o fluxo de solda na região que será soldada para melhor aderência da solda.
 <h4>3.2.2 Inserindo a câmera</h4>
  <p>Com a câmera em mãos insira a fita na parte da câmera e da placa Raspberry para ligar as duas corretamente a mesma deve ficar como mostrado abaixo.</p>
 
- <h5 align="center">Figura 7- MicroSd inserido no Raspberry..
+ <h5 align="center">Figura 8- Câmera fixada na placa.</h5>
 
 <h5 align="center">Fonte: do autor, 2025</h5>
+
+<br>
+<h4>3.3 Parte Parte superior do chassi</h4>
+<h4>3.3.1 Preparando a bateria</h4>
+<p>Antes de posiciona seu suporte de bateria pegue um cabo macho-macho que não está sendo usado, o corte e então solde uma das pontas na saída negativa da bateria de modo que fique como abaixo.</p>
+
+<h5 align="center">Figura 9- Ponta macho soldada na bateria.</h5>
+
+<h5 align="center">Fonte: do autor, 2025</h5>
+
+<br>
+<h4>3.3.2 Posicionando a bateria</h4>
+<p>Posicione a bateria em uma extremidade da parte superior do Chassi a fixando com cola quente esta agora será considerada a parte traseira do carro explorador.</p>
+
+<h5 align="center">Figura 10- Bateria posicionada devidamente na parte traseira.</h5>
+
+<h5 align="center">Fonte: do autor, 2025</h5>
+
+<br>
+<h4>3.3.3 Switch</h4>
+<p>Caso não seja possível encaixá-lo corretamente fure um espaço extra para o botão e o posicione como mostrado abaixo.</p>
+
+<h5 align="center">Figura 11- Botão no Chassi.</h5>
+
+<h5 align="center">Fonte: do autor, 2025</h5>
+<br>
+<p>Após isso utilize a solda para fixar a saída positiva de energia da bateria na ponta OFF do botão. </p>
+
+<h5 align="center">Figura 12- Positivo soldado.</h5>
+
+<h5 align="center">Fonte: do autor, 2025</h5>
+
+<br>
+<p>Agora usaremos um cabo soldado em estanho em forma de Y como este a seguir.</p>
+
+<h5 align="center">Figura 13- Cabo em forma de Y.</h5>
+
+<h5 align="center">Fonte: do autor, 2025</h5>
+
+<br>
+<p>E finalmente soldamos a ponta menor do cabo em Y na saída do botão para ele fornece energia as duas outras pontas.</p>
+
+<h5 align="center">Figura 14- Cabo em forma de Y soldado.</h5>
+
+<h5 align="center">Fonte: do autor, 2025</h5>
+
+<br>
+<h4>3.3.4 Step-down</h4>
+<p>Calibre seu step-down para que a saída seja regulada para aproximadamente 5V usando uma chave de fenda e o verificando
+ através de uma fonte e o potenciômetro assim que ajustado o fixe usando cola quente a frente do switch do chassi.</p>
+
+ <h5 align="center">Figura 15- Step-down posicionado.</h5>
+
+<h5 align="center">Fonte: do autor, 2025</h5>
+
+<br>
+<h4>3.3.5 Raspberry pi </h4>
+<p>Após posicionar o step-down posicione o Raspberry a frente dele fixando o mesmo com cola quente, é importante ressaltar que o GPIO do Raspberry deve estar virado na mesma direção que a saída de seu step-down.</p>
+
+ <h5 align="center">Figura 16- Raspberry posicionado.</h5>
+
+<h5 align="center">Fonte: do autor, 2025</h5>
+
+<br>
+<h4>3.3.6 Servo motor </h4>
