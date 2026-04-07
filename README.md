@@ -301,3 +301,10 @@ o fluxo de solda na região que será soldada para melhor aderência da solda.</
 | OUT+ | 5V | 
 | OUT- | GND |
  <h5 align="center"> Fonte: do autor, 2025
+
+ # 4 RESULTADO FINAL
+ <p>Após a conclusão dos passos anteriormente listados, o seguidor de linha ficará como no exemplo a seguir.</p>
+
+ <h5 align="center">Figura 3- Robocar1.0 completo.</h5>
+
+<h5 align="center">Fonte: do autor, 2025</h5>
