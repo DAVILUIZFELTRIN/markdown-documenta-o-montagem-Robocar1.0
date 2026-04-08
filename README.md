@@ -72,6 +72,7 @@
  ![Pontes H fixadas no chassi](https://i.postimg.cc/jSKWz4tb/img-1.jpg)
  </div>
  <h5 align="center">Fonte: do autor, 2025</h5>
+ <br>
 
  <h4>3.1.2 Motores</h4>
   
@@ -84,6 +85,7 @@ o fluxo de solda na região que será soldada para melhor aderência da solda.</
  ![Motores soldados aos fios](https://i.postimg.cc/kg9Vxvqn/img-2.jpg)
  </div>
  <h5 align="center"> Fonte: Lucas Pizoni, 2025.</h5>
+  <br>
   
 # <h4>Anotação
 
@@ -109,6 +111,7 @@ o fluxo de solda na região que será soldada para melhor aderência da solda.</
  ![Motores com os fios encaixados](https://i.postimg.cc/RZ93cL40/img-4.jpg)
  </div>
 <h5 align="center">Fonte: do autor, 2025</h5>
+<br>
 
 <h4>3.1.3 Protoboard</h4>
 
@@ -120,6 +123,7 @@ o fluxo de solda na região que será soldada para melhor aderência da solda.</
  ![Protoboard](https://i.postimg.cc/dVv78jwt/img-5.jpg)
  </div>
 <h5 align="center">Fonte: do autor, 2025</h5>
+<br>
 
 <h4>3.1.4 Cabos</h4>
 
@@ -131,6 +135,7 @@ o fluxo de solda na região que será soldada para melhor aderência da solda.</
  ![Cabos posicionados](https://i.postimg.cc/mgRcQyBk/img-6.jpg)
  </div>
 <h5 align="center">Fonte: do autor, 2025</h5>
+<br>
 
 # <h4>3.2 Preparando o Raspberry pi 4</h4>
 
@@ -139,7 +144,7 @@ o fluxo de solda na região que será soldada para melhor aderência da solda.</
 
 <h5 align="center">Figura 7- MicroSd inserido no Raspberry.</h5>
 <div align="center">
- 
+
  ![MicroSd na Raspberry](https://i.postimg.cc/g2dwvHmx/img-7.jpg)
  </div>
 <h5 align="center">Fonte: do autor, 2025</h5>
@@ -190,6 +195,7 @@ o fluxo de solda na região que será soldada para melhor aderência da solda.</
  </div>
 <h5 align="center">Fonte: do autor, 2025</h5>
 <br>
+<br>
 <p>Após isso utilize a solda para fixar a saída positiva de energia da bateria na ponta OFF do botão. </p>
 
 <h5 align="center">Figura 12- Positivo soldado.</h5>
@@ -198,7 +204,7 @@ o fluxo de solda na região que será soldada para melhor aderência da solda.</
  ![Motores parafusados ao chassi](https://i.postimg.cc/VkRJ40k6/img-12.jpg)
  </div>
 <h5 align="center">Fonte: do autor, 2025</h5>
-
+<br>
 <br>
 <p>Agora usaremos um cabo soldado em estanho em forma de Y como este a seguir.</p>
 
@@ -208,7 +214,7 @@ o fluxo de solda na região que será soldada para melhor aderência da solda.</
  ![Motores parafusados ao chassi](https://i.postimg.cc/MpDntfpX/img-13.jpg)
  </div>
 <h5 align="center">Fonte: do autor, 2025</h5>
-
+<br>
 <br>
 <p>E finalmente soldamos a ponta menor do cabo em Y na saída do botão para ele fornece energia as duas outras pontas.</p>
 
@@ -218,7 +224,7 @@ o fluxo de solda na região que será soldada para melhor aderência da solda.</
  ![Motores parafusados ao chassi](https://i.postimg.cc/y8PDn38k/img-14.jpg)
  </div>
 <h5 align="center">Fonte: do autor, 2025</h5>
-
+<br>
 <br>
 <h4>3.3.4 Step-down</h4>
 <p>Calibre seu step-down para que a saída seja regulada para aproximadamente 5V usando uma chave de fenda e o verificando
@@ -276,7 +282,7 @@ o fluxo de solda na região que será soldada para melhor aderência da solda.</
  </div>
 <h5 align="center">Fonte: do autor, 2025</h5>
 <br>
-
+<br>
 <h5 align="center">Figura 19.2- Conectando a ponte H mais distante do step.</h5>
 <div align="center">
  
@@ -284,7 +290,7 @@ o fluxo de solda na região que será soldada para melhor aderência da solda.</
  </div>
 <h5 align="center">Fonte: do autor, 2025</h5>
 <br>
-
+<br>
 <h5 align="center">Figura 19.3- Conectando ao step.</h5>
 <div align="center">
  
@@ -292,7 +298,7 @@ o fluxo de solda na região que será soldada para melhor aderência da solda.</
  </div>
 <h5 align="center">Fonte: do autor, 2025</h5>
 <br>
-
+<br>
 <h4>3.4.3 Conectando as entradas negativas</h4>
 <p>Conecte a saída negativa da bateria na protoboard então conecte 3 fios macho-macho junto dela e use 2 para alimentar as pontes H e 1 para alimentar o IN -.</p>
 
@@ -303,7 +309,7 @@ o fluxo de solda na região que será soldada para melhor aderência da solda.</
  </div>
 <h5 align="center">Fonte: do autor, 2025</h5>
 <br>
-
+<br>
 <h5 align="center">Figura 20.2- Conectado a ponte H.</h5>
 <div align="center">
  
@@ -311,7 +317,7 @@ o fluxo de solda na região que será soldada para melhor aderência da solda.</
  </div>
 <h5 align="center">Fonte: do autor, 2025</h5>
 <br>
-
+<br>
 <h5 align="center">Figura 20.3- Conectado ao step.</h5>
 <div align="center">
  
@@ -329,7 +335,7 @@ o fluxo de solda na região que será soldada para melhor aderência da solda.</
  ![Motores parafusados ao chassi](https://i.postimg.cc/t45sDn4m/img-21.jpg)
  </div>
 <h5 align="center">Fonte: do autor, 2025</h5>
-
+<br>
 <h4>3.4.5 fixando a câmera</h4>
 <p>Cole a câmera de cabeça para baixo em uma hélice de servo motor e então posicione a mesma em cima dele.</p>
 
@@ -358,10 +364,8 @@ o fluxo de solda na região que será soldada para melhor aderência da solda.</
 </div>
  <h5 align="center"> Fonte: do autor, 2025
  <br>
-
+ <br>
  <h5 align="center"> Tabela 5 - Ponte H traseira.</5>
-<br>
-
 <div align="center">
   
 | Ponte H | Raspberry |
@@ -374,12 +378,10 @@ o fluxo de solda na região que será soldada para melhor aderência da solda.</
 | ENB | 17 | 
 </div>
  <h5 align="center"> Fonte: do autor, 2025
-
+ <br>
  <br>
 
  <h5 align="center"> Tabela 6 - Servo motor.</5>
-<br>
-
 <div align="center">
   
 | Servo | Raspberry |
@@ -389,9 +391,9 @@ o fluxo de solda na região que será soldada para melhor aderência da solda.</
 | Controle | 19 |  
 </div>
  <h5 align="center"> Fonte: do autor, 2025
-
-  <h5 align="center"> Tabela 7 - Step-down.</5>
 <br>
+<br>
+  <h5 align="center"> Tabela 7 - Step-down.</5>
 <div align="center">
   
 | Servo | Raspberry |
