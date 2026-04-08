@@ -23,7 +23,7 @@
 | 1 | Suporte para 2 Baterias de Li-Ion 18650 |
  <h5 align="center"> Fonte: do autor, 2025
 
-# <h3>2 FERRAMENTAS DE MONTAGEM</3>
+# <h3>2 FERRAMENTAS DE MONTAGEM
 <h5 align="center"> Tabela 2 - Lista de ferramentas de montagem.</5>
 <br>
  
@@ -54,7 +54,7 @@
 | 1 | Tesoura |
  <h5 align="center"> Fonte: Lucas Pizoni, 2025
 
-# <h3>3 MONTAGEM</3>
+# <h3>3 MONTAGEM
  <h4>3.1 Parte inferior do chassi</h4>
  <h4>3.1.1 Pontes H</h4>
  <p align="center"><h4> Posicione e fixe usando cola quente as pontes H como na imagem demonstrada</p>
@@ -309,8 +309,10 @@ o fluxo de solda na região que será soldada para melhor aderência da solda.</
  <h5 align="center">Figura 3- Robocar1.0 completo.</h5>
 
 <h5 align="center">Fonte: do autor, 2025</h5>
+<br>
 
-#5 CÓDIGO DE EXEMPLO
+# 5 CÓDIGO DE EXEMPLO
+
 <p>https://github.com/jhonicauan/Carro_remoto.git </p>
 
 <h3 align="center"> LINKS DE COMPRA</h3>
