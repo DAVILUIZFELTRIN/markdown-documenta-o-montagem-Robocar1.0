@@ -461,7 +461,8 @@ o fluxo de solda na região que será soldada para melhor aderência da solda.</
 | Step-down | https://www.alldatasheet.com/datasheet-pdf/view/1134369/XLSEMI/XL4016.html#:~:text=Click%20to%20view%20in%20HTML%20datasheet.%20List%20of,DC%20Converter.%20File%20Size%3A%20250.52%20Kbytes.%20Manufacturer%3A%20XLSEMI. |
 </div>
 
-
+<br>
+<br>
 
 
 <h5 align="center">Figura 23- Circuito de Alimentação.</h5>
